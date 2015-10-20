@@ -1,0 +1,15 @@
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\bin\Debug\MetroFramework.Design.dll
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\bin\Debug\MetroFramework.dll
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\bin\Debug\MetroFramework.Fonts.dll
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.MainForm.resources
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+G:\Raihan\visual studio 2013\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Rifat\Desktop\Raihan\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Rifat\Desktop\Raihan\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Rifat\Desktop\Raihan\FlappyBird\obj\Debug\FlappyBird.pdb
